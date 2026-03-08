@@ -121,10 +121,3 @@ financial-analysis-crewai/
 └── README.md                                # Project documentation
 ```
 
-## ⚠️ Disclaimer
-
-This project is for **educational purposes only**. The outputs from this system should **not** be used as actual financial or investment advice. Always consult a qualified financial advisor before making trading decisions.
-
-## 📜 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
